@@ -1,20 +1,21 @@
 {
   "development": {
-    "username": "root",
+    "port": 5179,
+    "username": "postgres",
     "password": "August6114",
     "database": "music_tour",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
+    "username": "postgres",
     "password": "August6114",
     "database": "music_tour_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "postgres",
     "password": "August6114",
     "database": "music_tour_production",
     "host": "127.0.0.1",
